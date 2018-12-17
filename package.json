@@ -1,0 +1,7 @@
+{
+  "name": "Test1234",
+  "version": "1.0.0",
+  "dependencies": {
+    "slappforge-sdk-twitter": "0.0.2"
+  }
+}
